@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ios-uikit-uipickerview-demo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B67BE8721E4EA6DF0065929B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B67BE8861E4EA6E00065929B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B67BE8911E4EA6E00065929B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
