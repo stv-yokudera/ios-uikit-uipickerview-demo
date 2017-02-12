@@ -3,6 +3,8 @@
 ## 概要
 UIPickerViewは、ホイールを回して値を選択するピッカービューを利用するクラスです。
 
+![UICollectionViewのイメージ](https://github.com/stv-yokudera/ios-uikit-uipickerview-demo/wiki/images/uipickerview.png)
+
 ## 関連クラス
 UIView
 　
