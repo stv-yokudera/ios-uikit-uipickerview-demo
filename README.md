@@ -10,7 +10,7 @@ UIView
 　
 ## 実装手順
 1. StoryboardにUIPickerViewを配置します。
-2. UIViewControllerとStoryboardのUIPickerViewを関連けます。
+2. UIViewControllerとStoryboardのUIPickerViewを関連付けます。
 3. UIViewControllerにUIPickerViewDataSourceを実装します。
 4. dataSourceにUIViewControllerのインスタンスを設定します。
 5. UIViewControllerにUIPickerViewDelegateを実装します。
